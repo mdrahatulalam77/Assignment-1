@@ -1,3 +1,51 @@
+body{
+        font-family: 'Poppins', sans-serif;
+}
+.mission{
+        color: darkgoldenrod;
+}
 h1{
-        color: blue;
+        font-size: 50px;
+}
+.display-flex{
+        display: flex;
+}
+.half-width{
+        width: 50%;
+        padding-left: 10%;
+        padding-top: 10%;
+}
+.half-width img{
+        width: 60%;
+        padding-left: 5%;
+}
+.link-button{
+        color: aliceblue;
+        background-color: brown;
+        border-radius: 5px;
+        text-decoration: none;
+        padding: 10px 40px;
+        
+}
+.padding{
+        padding-top: 5%;
+}
+.mmission{
+        text-align: center;
+        color: brown;
+} 
+.width-illustrator img{
+        width: 30%;
+        margin-left: 5%;
+        margin-right: 5%;  
+}
+.box-shadow{
+        box-shadow: 10px 10px 10px 10px gray;
+        width: 30%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-left: 5px;
+}
+h2{
+        padding-left: 15%;
 }
